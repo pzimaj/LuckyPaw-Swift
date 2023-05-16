@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dogs</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>609cadc0632c4021abfa9c13f5f1676c</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Otto</string>
+			<key>breed</key>
+			<string>French Bulldog</string>
+			<key>age</key>
+			<string>1y 4m</string>
+			<key>weight</key>
+			<string>5,5 kg</string>
+			<key>height</key>
+			<string>42 cm</string>
+			<key>color</key>
+			<string>brown</string>
+			<key>breeder</key>
+			<string>Janice Dickinson</string>
+			<key>image</key>
+			<string>otto</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>44.837521</string>
+			<key>longitude</key>
+			<string>16.562269</string>
+			<key>behavior</key>
+			<array>
+				<string>Leash trained</string>
+				<string>Friendly with cats</string>
+				<string>Active</string>
+				<string>Tries to eat things</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>3329960a4b87420f9fc1912841648b69</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 14:00</string>
+			<key>name</key>
+			<string>Frida</string>
+			<key>breed</key>
+			<string>Bull Terrier</string>
+			<key>age</key>
+			<string>4y</string>
+			<key>weight</key>
+			<string>20kg</string>
+			<key>height</key>
+			<string>40cm</string>
+			<key>color</key>
+			<string>white</string>
+			<key>breeder</key>
+			<string>Marita Kresic</string>
+			<key>image</key>
+			<string>frida</string>
+			<key>gender</key>
+			<string>f</string>
+			<key>latitude</key>
+			<string>45.326233</string>
+			<key>longitude</key>
+			<string>14.594077</string>
+			<key>behavior</key>
+			<array>
+				<string>Great with kids</string>
+				<string>Loves long walks</string>
+				<string>Not great with other dogs</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>fba4723ff0c04a9d9d27c09a79f372b5</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Gatsby</string>
+			<key>breed</key>
+			<string>American Staffordshire Terrier</string>
+			<key>age</key>
+			<string>3m</string>
+			<key>weight</key>
+			<string>7kg</string>
+			<key>height</key>
+			<string>15cm</string>
+			<key>color</key>
+			<string>Black and white</string>
+			<key>breeder</key>
+			<string>Marita Kresic</string>
+			<key>image</key>
+			<string>gatsby</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>45.925513</string>
+			<key>longitude</key>
+			<string>15.990503</string>
+			<key>behavior</key>
+			<array>
+				<string>Potty trained</string>
+				<string>Loves people and other animals</string>
+				<string>Leash trained</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>d0e39ab649df42f1be42cab5720997c1</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Kan</string>
+			<key>breed</key>
+			<string>Presa Canario</string>
+			<key>age</key>
+			<string>3y</string>
+			<key>weight</key>
+			<string>50kg</string>
+			<key>height</key>
+			<string>60cm</string>
+			<key>color</key>
+			<string>Rare Brown</string>
+			<key>breeder</key>
+			<string>Marita Kresic</string>
+			<key>image</key>
+			<string>kan</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>46.229609</string>
+			<key>longitude</key>
+			<string>-14.228192</string>
+			<key>behavior</key>
+			<array>
+				<string>Protective</string>
+				<string>Well trained</string>
+				<string>Needs someone with experience</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>32e3f239228c4a79995b6fe6f143a399</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 10:00</string>
+			<key>name</key>
+			<string>Asi</string>
+			<key>breed</key>
+			<string>Bernese Mountain Dog</string>
+			<key>age</key>
+			<string>6y</string>
+			<key>weight</key>
+			<string>30kg</string>
+			<key>height</key>
+			<string>45cm</string>
+			<key>color</key>
+			<string>Black, brown and white</string>
+			<key>breeder</key>
+			<string>Mike Gaiguy</string>
+			<key>image</key>
+			<string>asi</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>45.114632</string>
+			<key>longitude</key>
+			<string>10.763996</string>
+			<key>behavior</key>
+			<array>
+				<string>Loves kids</string>
+				<string>Great with other animals</string>
+				<string>Great health</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>896d5fa934854caf80acc6c03bac1e04</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>14:00 - 16:00</string>
+			<key>name</key>
+			<string>Ares</string>
+			<key>breed</key>
+			<string>Dogo Argentino</string>
+			<key>age</key>
+			<string>1y</string>
+			<key>weight</key>
+			<string>35kg</string>
+			<key>height</key>
+			<string>40cm</string>
+			<key>color</key>
+			<string>White</string>
+			<key>breeder</key>
+			<string>Sofia Butra</string>
+			<key>image</key>
+			<string>ares</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>47.505113</string>
+			<key>longitude</key>
+			<string>17.611538</string>
+			<key>behavior</key>
+			<array>
+				<string>Leash trained</string>
+				<string>Loves to play</string>
+				<string>Enjoys long walks</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>721c2d3007854ecb83bfeddfe8b60c53</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>12:00 - 16:00</string>
+			<key>name</key>
+			<string>Alba</string>
+			<key>breed</key>
+			<string>Dachsund</string>
+			<key>age</key>
+			<string>2y</string>
+			<key>weight</key>
+			<string>23kg</string>
+			<key>height</key>
+			<string>30cm</string>
+			<key>color</key>
+			<string>Brown</string>
+			<key>breeder</key>
+			<string>Sofia Butra</string>
+			<key>image</key>
+			<string>alba</string>
+			<key>gender</key>
+			<string>f</string>
+			<key>latitude</key>
+			<string>48.380853</string>
+			<key>longitude</key>
+			<string>16.072170</string>
+			<key>behavior</key>
+			<array>
+				<string>Great with kids</string>
+				<string>Easy to train</string>
+				<string>Crazy about balls</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>e0085e96dbad4401a5d202a8f6cb4010</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 10:00</string>
+			<key>name</key>
+			<string>Hak</string>
+			<key>breed</key>
+			<string>German Pinscher</string>
+			<key>age</key>
+			<string>8m</string>
+			<key>weight</key>
+			<string>40kg</string>
+			<key>height</key>
+			<string>50cm</string>
+			<key>color</key>
+			<string>Black and brown</string>
+			<key>breeder</key>
+			<string>Nikolina Kazahstan</string>
+			<key>image</key>
+			<string>hak</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>41.249290</string>
+			<key>longitude</key>
+			<string>-1.547469</string>
+			<key>behavior</key>
+			<array>
+				<string>Protective</string>
+				<string>Great with cats and other dogs</string>
+				<string>Suitable for family</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>8868635f0f8145349e63f6abcd8f542b</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Joshi</string>
+			<key>breed</key>
+			<string>Border Collie</string>
+			<key>age</key>
+			<string>3y</string>
+			<key>weight</key>
+			<string>50kg</string>
+			<key>height</key>
+			<string>60cm</string>
+			<key>color</key>
+			<string>Black and white</string>
+			<key>breeder</key>
+			<string>Baba Yaga</string>
+			<key>image</key>
+			<string>joshi</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>32.059737</string>
+			<key>longitude</key>
+			<string>-6.897344</string>
+			<key>behavior</key>
+			<array>
+				<string>Easy to train</string>
+				<string>Smart</string>
+				<string>Great for first time dog owners</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>5c75a02a46c44e17a303c014341c0a37</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Rufus</string>
+			<key>breed</key>
+			<string>Great Dane</string>
+			<key>age</key>
+			<string>6y</string>
+			<key>weight</key>
+			<string>60kg</string>
+			<key>height</key>
+			<string>100cm</string>
+			<key>color</key>
+			<string>Brown</string>
+			<key>breeder</key>
+			<string>Pipi Kakanina</string>
+			<key>image</key>
+			<string>rufus</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>36.604504</string>
+			<key>longitude</key>
+			<string>-96.811360</string>
+			<key>behavior</key>
+			<array>
+				<string>Protective</string>
+				<string>Calm</string>
+				<string>Not for first time dog owners</string>
+				<string>Needs a lot of excercise</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>7f1c02c986d840f9bbc534522bf98462</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Texas</string>
+			<key>breed</key>
+			<string>Kerry Blue Terrier</string>
+			<key>age</key>
+			<string>9m</string>
+			<key>weight</key>
+			<string>20kg</string>
+			<key>height</key>
+			<string>30cm</string>
+			<key>color</key>
+			<string>Black</string>
+			<key>breeder</key>
+			<string>Tony Yoming</string>
+			<key>image</key>
+			<string>texas</string>
+			<key>gender</key>
+			<string>f</string>
+			<key>latitude</key>
+			<string>51.277381</string>
+			<key>longitude</key>
+			<string>-116.847260</string>
+			<key>behavior</key>
+			<array>
+				<string>playfull</string>
+				<string>great temparament</string>
+				<string>loves food</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>d880a7a843b14737bd395640993cf46f</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Louisiana</string>
+			<key>breed</key>
+			<string>Azawakh</string>
+			<key>age</key>
+			<string>4y</string>
+			<key>weight</key>
+			<string>50kg</string>
+			<key>height</key>
+			<string>100cm</string>
+			<key>color</key>
+			<string>Brown</string>
+			<key>breeder</key>
+			<string>Nina Bonina</string>
+			<key>image</key>
+			<string>louisiana</string>
+			<key>gender</key>
+			<string>f</string>
+			<key>latitude</key>
+			<string>40.298381</string>
+			<key>longitude</key>
+			<string>-116.495404</string>
+			<key>behavior</key>
+			<array>
+				<string>needs a lot of exercise</string>
+				<string>great with people</string>
+				<string>basic socialization</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>6ad45d025c6a465c960025aa8f839bfa</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Ariana</string>
+			<key>breed</key>
+			<string>Shiba Inu</string>
+			<key>age</key>
+			<string>1y</string>
+			<key>weight</key>
+			<string>30kg</string>
+			<key>height</key>
+			<string>40cm</string>
+			<key>color</key>
+			<string>Golden</string>
+			<key>breeder</key>
+			<string>Kyon Suzumiya</string>
+			<key>image</key>
+			<string>ariana</string>
+			<key>gender</key>
+			<string>f</string>
+			<key>latitude</key>
+			<string>15.435148</string>
+			<key>longitude</key>
+			<string>-90.809947</string>
+			<key>behavior</key>
+			<array>
+				<string>sweet</string>
+				<string>calm</string>
+				<string>great with kids and other animals</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>c745fab0cd6a49ecb0ed752a6745c817</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>08:00 - 16:00</string>
+			<key>name</key>
+			<string>Bucky</string>
+			<key>breed</key>
+			<string>Lagoto Romagnolo</string>
+			<key>age</key>
+			<string>8y</string>
+			<key>weight</key>
+			<string>50kg</string>
+			<key>height</key>
+			<string>70cm</string>
+			<key>color</key>
+			<string>brown</string>
+			<key>breeder</key>
+			<string>Botacielli Romanio</string>
+			<key>image</key>
+			<string>bucky</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>2.265340</string>
+			<key>longitude</key>
+			<string>-72.161601</string>
+			<key>behavior</key>
+			<array>
+				<string>tartuf hunter</string>
+				<string>loves walks</string>
+				<string>kid friendly</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>50b00c2d9e9846629ff0fcb472d783fd</string>
+			<key>visit</key>
+			<string>yes</string>
+			<key>availability</key>
+			<string>09:00 - 16:00</string>
+			<key>name</key>
+			<string>Chicho</string>
+			<key>breed</key>
+			<string>Besanji</string>
+			<key>age</key>
+			<string>7m</string>
+			<key>weight</key>
+			<string>20kg</string>
+			<key>height</key>
+			<string>40cm</string>
+			<key>color</key>
+			<string>Golden</string>
+			<key>breeder</key>
+			<string>De la Cruz</string>
+			<key>image</key>
+			<string>chicho</string>
+			<key>gender</key>
+			<string>m</string>
+			<key>latitude</key>
+			<string>44.199928</string>
+			<key>longitude</key>
+			<string>-102.773037</string>
+			<key>behavior</key>
+			<array>
+				<string>calm</string>
+				<string>full socialization</string>
+				<string>has basic training</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

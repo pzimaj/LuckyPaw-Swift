@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>49201484572-0s29tlluidpja5rqm7ddvs9faq3an2hf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.49201484572-0s29tlluidpja5rqm7ddvs9faq3an2hf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB06UH29nISdYeHspNXKrNviz7v6PG6ZZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>49201484572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>marita-kresic.FinalProject</string>
+	<key>PROJECT_ID</key>
+	<string>finalproject-2edcd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalproject-2edcd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:49201484572:ios:6533c3a647a564b7dda0d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://finalproject-2edcd-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
