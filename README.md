@@ -1,5 +1,5 @@
 # Lucky Paw for IOS
 
-- An IOS app that is used for scheduling a meeting with dogs that are available for adoption.
-- User authentication is done with Firebase, and the data about the users available for adoption are stored in the Firebase Firestore database
-- The dog data is stored inside of a plist file
+![About the app](https://github.com/pzimaj/LuckyPaw-Swift/blob/main/App_Screens/About_Slide.jpg)
+![First set of screens](https://github.com/pzimaj/LuckyPaw-Swift/blob/main/App_Screens/Screens1.jpg)
+![Second set of screens](https://github.com/pzimaj/LuckyPaw-Swift/blob/main/App_Screens/Screens2.jpg)
